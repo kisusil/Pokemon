@@ -17,7 +17,7 @@ public class Main {
         pokemons.add(new Amaura("Oleg",100));
         pokemons.add(new Aurorus("Anton",18));
         pokemons.add(new Bellsprout("Maxim",50));
-        pokemons.add(new Victreebel("Vasya",250));
+        pokemons.add(new Victreebel("Vasiliy",250));
         pokemons.add(new Weepinbell("Alexey",30));
         pokemons.add(new TapuFini("Ivan",140));
 
