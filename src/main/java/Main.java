@@ -14,12 +14,12 @@ public class Main {
     public static void main(String[] args) {
         Battle battle = new Battle();
         List<Pokemon> pokemons = new ArrayList<>();
-        pokemons.add(new Amaura("Amaura",100));
-        pokemons.add(new Aurorus("Aurorus",18));
-        pokemons.add(new Bellsprout("Bellsprout",50));
-        pokemons.add(new Victreebel("Victreebel",250));
-        pokemons.add(new Weepinbell("Weepinbell",30));
-        pokemons.add(new TapuFini("TapuFini",140));
+        pokemons.add(new Amaura("Oleg",100));
+        pokemons.add(new Aurorus("Anton",18));
+        pokemons.add(new Bellsprout("Maxim",50));
+        pokemons.add(new Victreebel("Vasya",250));
+        pokemons.add(new Weepinbell("Alexey",30));
+        pokemons.add(new TapuFini("Ivan",140));
 
         for (int i = 0; i < pokemons.size(); i++) {
             if(i % 2 == 0) {
