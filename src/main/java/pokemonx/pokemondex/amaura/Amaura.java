@@ -6,6 +6,7 @@ import pokemonx.movedex.status.ThunderWave;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
+
 public class Amaura extends Pokemon {
     public Amaura(String name, int level) {
         super(name, level);
