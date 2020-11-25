@@ -9,16 +9,8 @@ repositories {
     mavenCentral()
 }
 
-jar {
-    manifest {
-        attributes(
-                'Main-Class': 'Main'
-        )
-    }
-}
 
 dependencies {
-    // Something
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile files('libs/Pokemon.jar')
 }
