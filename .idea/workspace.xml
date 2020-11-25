@@ -29,6 +29,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f113dcc-4b40-45a6-888f-7405ff6c843e" name="Default Changelist" comment="Исправлены ошибки">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -163,7 +151,8 @@
       <workItem from="1606332878083" duration="130000" />
       <workItem from="1606333086117" duration="64000" />
       <workItem from="1606333153424" duration="344000" />
-      <workItem from="1606333502378" duration="517000" />
+      <workItem from="1606333502378" duration="597000" />
+      <workItem from="1606335945936" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="added paths to gitignore file">
       <created>1605462040812</created>
@@ -214,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606333630853</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Исправлены ошибки">
+      <created>1606335647713</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606335647713</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,25 +278,25 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="546" y="185" key="Github.UntrackedFilesDialog/0.0.1536.960@0.0.1536.960" timestamp="1604922097937" />
-    <state width="1494" height="217" key="GridCell.Tab.0.bottom" timestamp="1606333570119">
+    <state width="1494" height="217" key="GridCell.Tab.0.bottom" timestamp="1606335704695">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1494" height="217" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1606333570119" />
+    <state width="1494" height="217" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1606335704695" />
     <state width="1494" height="217" key="GridCell.Tab.0.bottom/0.23.1536.892@0.23.1536.892" timestamp="1604864523544" />
-    <state width="1494" height="217" key="GridCell.Tab.0.center" timestamp="1606333570118">
+    <state width="1494" height="217" key="GridCell.Tab.0.center" timestamp="1606335704694">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1494" height="217" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1606333570118" />
+    <state width="1494" height="217" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1606335704694" />
     <state width="1494" height="217" key="GridCell.Tab.0.center/0.23.1536.892@0.23.1536.892" timestamp="1604864523543" />
-    <state width="1494" height="217" key="GridCell.Tab.0.left" timestamp="1606333570117">
+    <state width="1494" height="217" key="GridCell.Tab.0.left" timestamp="1606335704690">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1494" height="217" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1606333570117" />
+    <state width="1494" height="217" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1606335704690" />
     <state width="1494" height="217" key="GridCell.Tab.0.left/0.23.1536.892@0.23.1536.892" timestamp="1604864523543" />
-    <state width="1494" height="217" key="GridCell.Tab.0.right" timestamp="1606333570119">
+    <state width="1494" height="217" key="GridCell.Tab.0.right" timestamp="1606335704694">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1494" height="217" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1606333570119" />
+    <state width="1494" height="217" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1606335704694" />
     <state width="1494" height="217" key="GridCell.Tab.0.right/0.23.1536.892@0.23.1536.892" timestamp="1604864523543" />
     <state x="406" y="248" key="MultipleFileMergeDialog" timestamp="1606333317955">
       <screen x="0" y="0" width="1536" height="960" />
@@ -310,10 +306,10 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="256" y="61" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1606333138300" />
-    <state x="368" y="220" key="Vcs.Push.Dialog.v2" timestamp="1606333639499">
+    <state x="368" y="220" key="Vcs.Push.Dialog.v2" timestamp="1606335650249">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="368" y="220" key="Vcs.Push.Dialog.v2/0.0.1536.960@0.0.1536.960" timestamp="1606333639499" />
+    <state x="368" y="220" key="Vcs.Push.Dialog.v2/0.0.1536.960@0.0.1536.960" timestamp="1606335650249" />
     <state x="417" y="219" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1605460571397">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
